@@ -27,6 +27,16 @@ Modalitäten
 Gruppenarbeit: 2 Personen
 Abgabe: Protokoll mit Designüberlegungen / Umsetzung / Testszenarien, Sourcecode (mit allen notwendigen Bibliotheken), Java-Doc, Jar
 
+Verpflichtender Zusatz
+----------------------
+Implementierung von verschiedenen Lastszenarien
+- Memory
+- CPU-Cycles
+- I/O
+
+Die Ehre diese Zusatzaufgabe zu implementieren wurde uns zu teil, da eine Hand voll Schüler unwissentlich gegen die nicht kommunizierten Richtlinien des Freitag-Morgen-Blues verstoßen haben.
+Meiner Meinung nach ist die Bestrafung der Masse auf Grund des Wiederhandels Einzelner fragwürdig, sofern die potenziellen Missetäter im Vorfeld nicht informiert wurden. So entwickelt sich nämlich, die meiner Meinung nach letzte Instanz zur Disziplin, zu einer bedenklichen Aüßerung der handlungsbezogenen Auswegslosigkeit einer Person, deren Tag schlicht und einfach mit suboptimalen Bedingungen begann.
+
 
 Viel Erfolg!
 
