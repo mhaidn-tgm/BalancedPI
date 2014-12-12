@@ -34,8 +34,8 @@ Implementierung von verschiedenen Lastszenarien
 - CPU-Cycles
 - I/O
 
-Die Ehre diese Zusatzaufgabe zu implementieren wurde uns zu teil, da eine Hand voll Schüler unwissentlich gegen die nicht kommunizierten Richtlinien des Freitag-Morgen-Blues verstoßen haben.
-Meiner Meinung nach ist die Bestrafung der Masse auf Grund des Wiederhandels Einzelner fragwürdig, sofern die potenziellen Missetäter im Vorfeld nicht informiert wurden. So entwickelt sich nämlich, die meiner Meinung nach letzte Instanz zur Disziplin, zu einer bedenklichen Aüßerung der handlungsbezogenen Auswegslosigkeit einer Person, deren Tag schlicht und einfach mit suboptimalen Bedingungen begann.
+Die Ehre diese Zusatzaufgabe zu implementieren wurde uns zuteil, da eine Hand voll Schüler unwissentlich gegen die nicht kommunizierten Richtlinien des Freitag-Morgen-Blues verstoßen haben.
+Meiner Meinung nach ist die Bestrafung der Masse auf Grund des Wiederhandels Einzelner fragwürdig, sofern die potenziellen Missetäter im Vorfeld nicht informiert wurden. So entwickelt sich nämlich, die meiner Meinung nach letzte Instanz zur Disziplin, zu einer bedenklichen Aüßerung der handlungsbezogenen Auswegslosigkeit einer Person, deren Tag schlicht und einfach unter suboptimalen Bedingungen begann.
 
 
 Viel Erfolg!
